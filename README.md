@@ -4,8 +4,16 @@
 
 test
 
+<<<<<<< .mine
 test2222
 
 
 testtesttesttesttest
 qqqqqqqqqqqqq
+=======
+test2222
+
+
+testtesttesttesttest
+
+>>>>>>> .theirs
